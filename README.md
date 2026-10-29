@@ -10,5 +10,6 @@ B.Tech Mechanical Engineering, Vellore Institute of Technology, Chennai
 | 02 | Natural Fiber Reinforced Polyester Composites | Materials |
 | 03 | Steady-State Thermal Analysis of Advanced Composite Cooling Fins | Ansys simulation |
 | 04 | Nitinol-Actuated Robotic Hand | Design & mechatronics |
+| 05 | Design, CNC/CAM Manufacture and Factory Simulation of a Monoblock Water Pump | CAD/CAM & manufacturing simulation |
 
 Contact: sujalkulkarni028@gmail.com
